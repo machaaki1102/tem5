@@ -3,9 +3,9 @@ import pandas as pd
 from PIL import Image
 import numpy as np
 import PIL.ExifTags as ExifTags
-#import plotly.express as px
+import plotly.express as px
 import os
-#import urllib.request
+import urllib.request
 import requests
 import time
 
