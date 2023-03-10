@@ -3,7 +3,7 @@ import pandas as pd
 from PIL import Image    
 #d#データ
 df = pd.read_csv('finished_data.csv',index_col=0,encoding='cp932')
-##
+###
 #body
 #sidebar
 st.sidebar.write('select')
